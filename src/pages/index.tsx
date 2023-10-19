@@ -22,7 +22,7 @@ export default function Home() {
         <meta property="og:description" content={user.bio} />
         <meta property="og:type" content="website" />
       </Head>
-      <Alpha data={DATA} />
+      <Dracula data={DATA} />
       {GA4ID && <GA4 ga4Id={GA4ID} />}
     </>
   );
