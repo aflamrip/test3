@@ -13,7 +13,7 @@ function CategoriesList({
   return (
     <nav className="sticky top-3 flex gap-5 items-center bg-dracula-current-line/30 backdrop-blur-sm z-10 rounded-xl px-4 sm:mx-0">
       <h2 className="text-dracula-orange text-sm font-medium min-w-[5rem]">
-        Filtrar por:
+        Categories:
       </h2>
       <ul className="scrollbar-hide flex flex-nowrap overflow-x-auto -ml-4 -mr-4">
         {categories?.map((category) => (
