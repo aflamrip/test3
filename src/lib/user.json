@@ -3,16 +3,17 @@
   "website": "https://itbruno.com.br",
   "role": "UI Designer & Front-end dev",
   "bio": "UI Designer and Front-end developer, based on Brazil and working at Nuvemshop",
-  "image": "/images/logo.svg",
+  "image": "/images/logo1.svg",
 
   "socialLinks": {
     "twitter": "https://twitter.com/_brunoweb",
-    "linkedin": "https://linkedin.com/in/itbruno",
-    "github": "https://github.com/itbruno",
-    "medium": "https://medium.com/@itbruno",
+    "linkedin": "",
+    "github": "",
+    "medium": "",
     "facebook": "https://facebook.com/@itbruno",
-    "youtube": "https://youtube.com/@itbruno",
+    "youtube": "",
+    "tiktok": "",
     "instagram": "https://instagram.com/@itbruno",
-    "dribbble": "https://dribbble.com/itbruno"
+    "dribbble": ""
   }
 }
