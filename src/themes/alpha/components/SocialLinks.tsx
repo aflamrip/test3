@@ -8,6 +8,7 @@ import {
   LinkedinLogo,
   MediumLogo,
   TwitterLogo,
+  TiktokLogo,
   YoutubeLogo
 } from 'phosphor-react';
 
