@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-import { Dracula } from '@themes/dracula';
+import { Alpha } from '@themes/alpha';
 import { DATA } from '@lib/data';
 import { GA4 } from '@utils/ga4';
 
