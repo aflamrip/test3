@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-import { Alpha } from '@themes/dracula';
+import { Alpha } from '@themes/alpha';
 import { DATA } from '@lib/data';
 import { GA4 } from '@utils/ga4';
 
@@ -22,7 +22,7 @@ export default function Home() {
         <meta property="og:description" content={user.bio} />
         <meta property="og:type" content="website" />
       </Head>
-      <Dracula data={DATA} />
+      <Alpha data={DATA} />
       {GA4ID && <GA4 ga4Id={GA4ID} />}
     </>
   );
