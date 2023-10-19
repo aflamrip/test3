@@ -8,7 +8,6 @@ import {
   LinkedinLogo,
   MediumLogo,
   TwitterLogo,
-  TiktokLogo,
   YoutubeLogo
 } from 'phosphor-react';
 
@@ -40,18 +39,6 @@ function SocialLinks({ socialLinks }: SocialLinksComponentProps) {
           aria-label="twitter"
         >
           <TwitterLogo size={32} />
-        </a>
-      )}
-
-      {!!socialLinks.tiktok && (
-        <a
-          className="transition-all group-hover:opacity-60 hover:!opacity-100 hover:-translate-y-[0.12rem]"
-          target="_blank"
-          rel="noreferrer"
-          href={socialLinks.tiktok}
-          aria-label="tiktok"
-        >
-          <TiktokLogo size={32} />
         </a>
       )}
 
